@@ -1,0 +1,35 @@
+*{
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0.8px;
+  padding: 0;
+}
+body{
+  max-width: 100%;
+}
+.Editor{
+  display: flex;
+}
+.title{
+  display: flex;
+}
+.title div{
+  color: white;
+  font-weight: bold;
+  padding:5px 0;
+}
+.title #html{
+  width: 45.5%;
+  text-align: center;
+  background-color: red;
+}
+.title #css{
+  width: 27.3%;
+  text-align: center;
+  background-color: blue;
+}
+.title #js{
+  width: 27.2%;
+  text-align: center;
+  background-color: rgba(255, 255, 0,0.95);
+}
