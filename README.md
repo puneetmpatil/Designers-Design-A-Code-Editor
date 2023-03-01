@@ -23,7 +23,7 @@ To run Designers-Design-A-Code-Editor locally on your machine, follow these step
 
 #### Technologies Used
 
-React - a JavaScript library for building user interfaces
+React - a JavaScript library for building user interfaces<br>
 React Simple Code Editor - A lightweight code editor for React. It provides syntax highlighting and other basic features of a code editor, while keeping the code simple and easy to use.
 
 #### Contributing
