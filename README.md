@@ -15,9 +15,9 @@ To run Designers-Design-A-Code-Editor locally on your machine, follow these step
 
 <ol>
 <li>Clone the repository</li>
-<li> cd Designers-Design-A-Code-Editor</li>
-<li>Install dependencies using the command: npm install</li>
-<li>Start the development server using the command : npm run dev</li>
+<li><strong>cd Designers-Design-A-Code-Editor</strong></li>
+<li>Install dependencies using the command: <strong>npm install</strong></li>
+<li>Start the development server using the command : <strong>npm run dev</strong></li>
 <li>Open the application in your browser at http://localhost:3000</li>
 </ol>
 
