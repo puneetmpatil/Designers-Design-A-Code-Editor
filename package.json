@@ -1,6 +1,7 @@
 {
   "name": "text-editor",
   "private": true,
+  "homepage": "ttps://github.com/puneetmpatil/Designers-Design-A-Code-Editor",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
